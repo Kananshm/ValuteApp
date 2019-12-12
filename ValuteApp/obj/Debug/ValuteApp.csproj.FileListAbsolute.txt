@@ -1,0 +1,10 @@
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\obj\Debug\ValuteApp.csprojAssemblyReference.cache
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\obj\Debug\ValuteApp.Form1.resources
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\obj\Debug\ValuteApp.Properties.Resources.resources
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\obj\Debug\ValuteApp.csproj.GenerateResource.cache
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\obj\Debug\ValuteApp.csproj.CoreCompileInputs.cache
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\bin\Debug\ValuteApp.exe.config
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\bin\Debug\ValuteApp.exe
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\bin\Debug\ValuteApp.pdb
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\obj\Debug\ValuteApp.exe
+C:\Users\kananshm\source\repos\09_12_2019Ado.net\ValuteApp\obj\Debug\ValuteApp.pdb
